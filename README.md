@@ -1,1 +1,1 @@
-# Crop-DIsease-Project
+# Crop-Diease-Project
